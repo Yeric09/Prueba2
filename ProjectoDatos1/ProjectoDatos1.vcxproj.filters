@@ -18,9 +18,15 @@
     <ClInclude Include="heap.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="cola.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="heap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cola.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -139,9 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="cola.h" />
     <ClInclude Include="heap.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="cola.cpp" />
     <ClCompile Include="heap.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
